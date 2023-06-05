@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\rainmaker3.OuterWildsGR</OutputPath>
+  </PropertyGroup>
+</Project>

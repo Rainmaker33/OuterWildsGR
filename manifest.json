@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "OuterWildsGR.dll",
+  "author": "rainmaker3",
+  "name": "OuterWildsGR",
+  "uniqueName": "rainmaker3.OuterWildsGR",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.0",
+  "dependencies": [
+    "xen.LocalizationUtility"
+  ]
+}
