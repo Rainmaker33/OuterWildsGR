@@ -7,4 +7,4 @@ https://github.com/xen-42/outer-wilds-localization-utility
 
 ## Helping out
 
-This is a solo project but I would love it if anyone could help! Send a message if you can contribute.
+This is a solo project but I would love it if anyone could help! Send a [message](https://join.slack.com/t/github-rainmaker33/shared_invite/zt-1wjnbhbqt-UFc0f5Q6nh9tZotdGjSjMw) if you can contribute.
