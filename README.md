@@ -1,4 +1,4 @@
-# OuterWildsGR
+# Outer Wilds GR Translation
 
 This is a translation attempt for the videogame "Outer Wilds" in the Greek language.
 
