@@ -418,7 +418,7 @@
 			THATCH: Plume is right; the trees &lt;i&gt;do&lt;/i&gt; move! I confess I didn’t notice until I read his notes.
 		</key>
 		<value>
-			THATCH: Ο Plume έχει δίκιο- τα δέντρα &lt;i&gt;όντως&lt;/i&gt;κινούνται! Ομολογώ ότι δεν το πρόσεξα μέχρι που διάβασα τις σημειώσεις του.
+			THATCH: Ο Plume έχει δίκιο - τα δέντρα &lt;i&gt;όντως&lt;/i&gt;κινούνται! Ομολογώ ότι δεν το πρόσεξα μέχρι που διάβασα τις σημειώσεις του.
 		</value>
 	</entry>
 	<entry>
@@ -490,39 +490,37 @@
 			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
 		</key>
 		<value>
-			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
-		</value>
+			BELLS: Στο οδοιπορικό σας, το &lt;color=lightblue&gt; Κβαντικό Φεγγάρι&lt;/color&gt; θα σας μεταφέρει, ακριβώς όπως με μετέφερε εμένα και πολλούς της φυλής μας πριν από μένα, στην έκτη και πιο μυστική τοποθεσία του φεγγαριού.		</value>
 	</entry>
 	<entry>
 		<key>
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
 		<value>
-			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
-		</value>
+			BELLS: Θα σας βοηθήσει στο οδοιπορικό σας το ιερό που έχτισε η φυλή μας στο &lt;color=lightblue&gt; Κβαντικό Φεγγάρι&lt;/color&gt;. Αλλά να θυμάστε αυτόν τον τελευταίο κανόνα: Για να εξερευνήσετε την έκτη τοποθεσία, το ιερό πρέπει να βρίσκεται στο βόρειο πόλο του φεγγαριού.		</value>
 	</entry>
 	<entry>
 		<key>
 			BELLS: Be curious on your journey!
 		</key>
 		<value>
-			BELLS: Be curious on your journey!
+			BELLS: Να είστε γεμάτοι περιέργεια στο ταξίδι σας!
 		</value>
 	</entry>
 	<entry>
 		<key>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-		<value>BELLS: Be welcomed in this place! Above you stands the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</value>
+		<value>BELLS: Καλώς ήρθατε σε αυτό το μέρος! Από πάνω σας δεσπόζει ο &lt;color=orange&gt;Πύργος της Κβαντικής Γνώσης&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</key>
-		<value>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</value>
+		<value>BELLS: Αν κάνετε το πρώτο σας οδοιπορικό στο &lt;color=lightblue&gt; Κβαντικό Φεγγάρι&lt;/color&gt;, ανέλθετε αυτές τις σκάλες και αποκτήστε τις τελευταίες γνώσεις που χρειάζεστε για το ταξίδι σας.</value>
 	</entry>
 	<entry>
 		<key>
 			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
 		</key>
 		<value>
-			BELLS: Beneath your feet lies the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.
+			BELLS: Κάτω από τα πόδια σας βρίσκεται ο &lt;color=orange&gt;Πύργος της Κβαντικής Γνώσης&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -530,23 +528,23 @@
 			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
 		</key>
 		<value>
-			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
+			BELLS: Αν ετοιμάζεστε να κάνετε το πρώτο σας οδοιπορικό στο &lt;color=lightblue&gt; Κβαντικό Φεγγάρι&lt;/color&gt;, κατεβείτε τα σκαλοπάτια προς την κάτω είσοδο. Η γνώση που φυλάσσεται στο εσωτερικό θα σας βοηθήσει στο ταξίδι σας.
 		</value>
 	</entry>
 	<entry>
 		<key>Activate the &lt;color=orange&gt;gravity cannon&lt;/color&gt;</key>
-		<value>Activate the &lt;color=orange&gt;gravity cannon&lt;/color&gt;</value>
+		<value>Ενεργοποιήστε το &lt;color=orange&gt;κανόνι βαρύτητας&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</key>
-		<value>Call the &lt;color=orange&gt;shuttle&lt;/color&gt; home</value>
+		<value>Καλέστε το &lt;color=orange&gt;διαστημόπλοιο&lt;/color&gt; πίσω</value>
 	</entry>
 	<entry>
 		<key>
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
+			LAEVI: Θα συναντηθούμε στη &lt;color=orange&gt;Σπηλιά του Απολιθωμένου Ψαριού&lt;/color&gt; για να παίξουμε το παιχνίδι! Αν είσαι πολύ μεγάλος για να σκαρφαλώσεις μέσα από την τρύπα στο &lt;color=orange&gt;Παρατηρητήριο του Λοφιόμορφου&lt;/color&gt; τότε:
 		</value>
 	</entry>
 	<entry>
@@ -554,7 +552,7 @@
 			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
 		</key>
 		<value>
-			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
+			LAEVI: Θα πρέπει να πας από τον μεγάλο δρόμο, αλλά δεν είναι πολύ μακριά. Πήγαινε στο &lt;color=orange&gt;Σπήλαιο των Πέτρινων Σκαλοπατιών&lt;/color&gt;, και στη συνέχεια ανέβα και μπες στο &lt;color=orange&gt; Σπήλαιο του Απολιθωμένου Ψαριού&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -562,7 +560,7 @@
 			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
 		</key>
 		<value>
-			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
+			TAGET: Προσπάθησα να φτάσω στο απολιθωμένο ψάρι μέσω του &lt;color=orange&gt;Σπήλαιου των Πέτρινων Σκαλοπατιών&lt;/color&gt;, αλλά δεν μπόρεσα να βρω την είσοδο. Πού είναι;
 		</value>
 	</entry>
 	<entry>
@@ -570,43 +568,43 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
 		<value>
-			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
+			ILEX: Θυμήσου να ταΐσεις πρώτα το απολιθωμένο ψάρι! Αν πας στο &lt;color=orange&gt;Παρατηρητήριο του Λοφιόμορφου&lt;/color&gt; και ρίξεις ένα φως στο στόμα του, θα σου δείξει το δρόμο.
 		</value>
 	</entry>
 	<entry>
 		<key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-		<value>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</value>
+		<value>LAMI: Ο Taget δεν μπορεί να χωρέσει πια μέσα από την τρύπα του &lt;color=orange&gt;Παρατηρητήριου του Λοφιόμορφου&lt;/color&gt; γιατί μεγάλωσε! Τώρα είναι ψηλότερος και από τη Laevi.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Who cares? Ilex is still tallest.</key>
-		<value>LAEVI: Who cares? Ilex is still tallest.</value>
+		<value>LAEVI: Ποιός νοιάζεται; Ο Ilex εξακολουθεί να είναι ο πιο ψηλός.</value>
 	</entry>
 	<entry>
 		<key>TAGET: Are we playing the fossil fish game tonight?</key>
-		<value>TAGET: Are we playing the fossil fish game tonight?</value>
+		<value>TAGET: Θα παίξουμε το παιχνίδι του απολιθωμένου ψαριού απόψε;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-		<value>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</value>
+		<value>SOLANUM: Τάισα το απολιθωμένο ψάρι με ένα νέο φανάρι. Αν πας στο &lt;color=orange&gt;Σπήλαιο των Πέτρινων Σκαλοπατιών&lt;/color&gt;, η είσοδος στο &lt;color=orange&gt;Σπήλαιο του Απολιθωμένου Ψαριού&lt;/color&gt; είναι τώρα εύκολα ορατή.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-		<value>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</value>
+		<value>LAEVI: Την ευγνωμοσύνη μου, Solanum! Είναι καλό που είσαι αρκετά μικρή για να σκαρφαλώσεις μέσα από την τρύπα στο &lt;color=orange&gt;Παρατηρητήριο του Λοφιόμορφου&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>LAMI: I’m still small enough!</key>
-		<value>LAMI: I’m still small enough!</value>
+		<value>LAMI: Και εγώ είμαι αρκετά μικρός!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</key>
-		<value>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</value>
+		<value>LAEVI: Δεν θα είσαι για πολύ. Η μαμά και ο μπαμπάς είναι ψηλοί, οπότε κι εσύ κι εγώ θα γίνουμε ψηλοί.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
 		<value>
-			MELORAE: The heat from this star system’s sun is more bearable below the surface.
+			MELORAE: Η ζέστη από τον &lt;color=lightblue&gt;ήλιο&lt;/color&gt; αυτού του αστρικού συστήματος είναι πιο υποφερτή κάτω από την επιφάνεια.
 		</value>
 	</entry>
 	<entry>
@@ -614,7 +612,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
 		<value>
-			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
+			MELORAE: Όταν η &lt;color=orange&gt; άκατος διαφυγής μας&lt;/color&gt; διείσδυσε στην επιφάνεια αυτού του πλανήτη, εισήλθε σε ένα σύστημα σπηλαίων με πολύ ψυχρότερο αέρα, όπως δείχνουν οι μετρήσεις. Θα πρότεινα να αναζητήσουμε ένα μέρος εκεί κάτω για να χτίσουμε ένα μακροπρόθεσμο καταφύγιο, Annona, αλλά αυτά τα περάσματα είναι λαβύρινθος!
 		</value>
 	</entry>
 	<entry>
@@ -622,7 +620,7 @@
 			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
 		</key>
 		<value>
-			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
+			ANNONA: Ακόμα και με αυτόν τον κίνδυνο, εξακολουθούν να είναι η καλύτερη ευκαιρία μας για επιβίωση. Θα σχηματίσουμε ομάδες και θα κατέβουμε στις σπηλιές για να ψάξουμε για καταφύγιο. Μπορούμε να σημειώσουμε τα ευρήματά μας στους τοίχους για να αποφύγουμε να χαθούμε χωρίς επιστροφή.
 		</value>
 	</entry>
 	<entry>
@@ -630,7 +628,7 @@
 			ANNONA: Be cautious, everyone.
 		</key>
 		<value>
-			ANNONA: Be cautious, everyone.
+			ANNONA: Να είστε προσεκτικοί, όλοι σας.
 		</value>
 	</entry>
 	<entry>
@@ -638,7 +636,7 @@
 			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
 		</key>
 		<value>
-			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
+			RHUS: Και προσέξτε την άμμο καθώς ψάχνετε. Φαίνεται να ανεβαίνει σταδιακά.
 		</value>
 	</entry>
 	<entry>
@@ -646,7 +644,7 @@
 			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
 		</key>
 		<value>
-			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
+			COLEUS: Η διαδρομή προς το καταφύγιο είναι κάπως δαιδαλώδης, γι' αυτό ακολουθήστε προσεκτικά τις οδηγίες!
 		</value>
 	</entry>
 	<entry>
@@ -654,7 +652,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
+			COLEUS: Για να φτάσετε στο καταφύγιο, περπατήστε προς τα εμπρός μέχρι να συναντήσετε τον καταρράκτη άμμου στο λάκκο και, στη συνέχεια, στρίψτε αριστερά. Συνεχίστε μέχρι το δωμάτιο που είναι γεμάτο με σχηματισμούς από βραχώδεις στήλες και ανεβείτε προς τα πάνω από το άνοιγμα πάνω από αυτές.
 		</value>
 	</entry>
 	<entry>
@@ -662,7 +660,7 @@
 			COLEUS: The sand here is rising, so you must be cautious but swift.
 		</key>
 		<value>
-			COLEUS: The sand here is rising, so you must be cautious but swift.
+			COLEUS: Η άμμος εδώ ανεβαίνει, οπότε πρέπει να είστε προσεκτικοί αλλά σύντομοι.
 		</value>
 	</entry>
 	<entry>
@@ -670,7 +668,7 @@
 			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
 		</key>
 		<value>
-			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
+			COLEUS: Να είστε προσεκτικοί διασχίζοντας το χάσμα μπροστά σας. Η γέφυρα που φτιάξαμε με τη Melorae θα κάνει τη δουλειά της, αλλά δεν είναι πολύ στιβαρή.
 		</value>
 	</entry>
 	<entry>
@@ -678,7 +676,7 @@
 			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
 		</key>
 		<value>
-			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
+			COLEUS: Μόλις φτάσετε στην άλλη πλευρά, αναζητήστε το τούνελ που είναι κρυμμένο πίσω από την άμμο που πέφτει. Ακολουθήστε το και θα φτάσετε στο καταφύγιο.
 		</value>
 	</entry>
 	<entry>
@@ -686,7 +684,7 @@
 			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
 		</key>
 		<value>
-			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
+			COLEUS: Τα πάτε περίφημα! Απομένει μόνο λίγο ακόμα μέχρι να φτάσετε στο καταφύγιο. Μπορείτε να ξεκουραστείτε εκεί. Γρήγορα, πριν έρθει η άμμος!
 		</value>
 	</entry>
 	<entry>
@@ -694,7 +692,7 @@
 			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
 		</key>
 		<value>
-			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
+			MELORAE: Μην ακολουθήσετε αυτό το τούνελ έως το τέλος του! (Ο Coleus και εγώ θα εξετάσουμε τη φρίκη που βρίσκεται στο τέλος του αργότερα, εφόσον επιβιώσουμε).
 		</value>
 	</entry>
 	<entry>
@@ -702,7 +700,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
 		<value>
-			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
+			ANNONA: Σημείωση: Αυτό το πέρασμα οδηγεί σε αναπνεύσιμο αέρα. Γεμίστε τη φιάλη αερίων σας εκεί (δεν μπορούμε να προβλέψουμε πόσο μακριές ή βαθιές είναι αυτές οι σήραγγες), αλλά μην καθυστερείτε, καθώς η περιοχή είναι εκτεθειμένη στη ζέστη αυτού του ξενικού &lt;color=lightblue&gt;ήλιου&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -710,7 +708,7 @@
 			ANNONA: Refill your air supply tank and return quickly.
 		</key>
 		<value>
-			ANNONA: Refill your air supply tank and return quickly.
+			ANNONA: Γεμίστε τη δεξαμενή αέρα και επιστρέψτε σύντομα.
 		</value>
 	</entry>
 	<entry>
@@ -718,7 +716,7 @@
 			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
 		</key>
 		<value>
-			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
+			RHUS: Συνεχίστε να προχωράτε, φίλοι μου: Δεν υπάρχει τίποτα ενδιαφέρον στο τέλος αυτού του περάσματος παρά μόνο βράχοι.
 		</value>
 	</entry>
 	<entry>
@@ -726,7 +724,7 @@
 			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
 		</key>
 		<value>
-			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
+			RHUS: Και παρόλο που αυτές οι πέτρες είναι ενδιαφέρουσες, μπορούν να περιμένουν μέχρι μια λιγότερο επείγουσα στιγμή.
 		</value>
 	</entry>
 	<entry>
